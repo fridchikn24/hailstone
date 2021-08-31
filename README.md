@@ -1,1 +1,1 @@
-# hailstone
+This is a python program that takes the General Hailstone sequence(for any set of numbers a and b, if x(input variable) is odd, y = a*x +b, if x is even, y = x/2, repeat until x = 1) for all combinations (a,b) > 0 such that a + b <= 10 and compares them with all other combinations to find unique Hailstone sequences for n input variables
